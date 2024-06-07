@@ -51,18 +51,18 @@ function myFunction() {
         upperSN = upperSN.join("");
         document.getElementById("result").innerHTML = "The bundle S/N is: ";
         document.getElementById("bundle").innerHTML = upperSN;
-        document.getElementById("img1").src = "https://lh3.googleusercontent.com/d/13aorQ2zVDVov3fMmf4lOUr8oep40wlI8";
-        document.getElementById("img2").src = "https://lh3.googleusercontent.com/d/13s94Yk2V6Qy3AT3wFF0RA1wY2RxpAIz2";
-        document.getElementById("img3").src = "https://lh3.googleusercontent.com/d/12TqYiv-NBhnEzl2mnitJpuMm3ecYxOKJ";
+        document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/buds-a-image-1.webp";
+        document.getElementById("img2").src = "https://vinxander44.github.io/g-sn-host/assets/buds-a-olive-contacts.png";
+        document.getElementById("img3").src = "https://vinxander44.github.io/g-sn-host/assets/buds-pro-buds-white.webp";
         break;
       
         //Verifying if the Pixel Bud A-Series S/N entered is already a bundle S/N
         case "9":
         document.getElementById("myDevice").innerHTML = "Pixel Buds A-Series";
         document.getElementById("result").innerHTML = "The S/N entered is already a bundle S/N";
-        document.getElementById("img1").src = "https://lh3.googleusercontent.com/d/13aorQ2zVDVov3fMmf4lOUr8oep40wlI8";
-        document.getElementById("img2").src = "https://lh3.googleusercontent.com/d/13s94Yk2V6Qy3AT3wFF0RA1wY2RxpAIz2";
-        document.getElementById("img3").src = "https://lh3.googleusercontent.com/d/12TqYiv-NBhnEzl2mnitJpuMm3ecYxOKJ";
+        document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/buds-a-image-1.webp";
+        document.getElementById("img2").src = "https://vinxander44.github.io/g-sn-host/assets/buds-a-olive-contacts.png";
+        document.getElementById("img3").src = "https://vinxander44.github.io/g-sn-host/assets/buds-pro-buds-white.webp";
         break;
 
         default:
@@ -84,26 +84,26 @@ function myFunction() {
             upperSN = upperSN.join("");
             document.getElementById("result").innerHTML = "The bundle S/N is: ";
             document.getElementById("bundle").innerHTML = upperSN;
-            document.getElementById("img1").src = "https://lh3.googleusercontent.com/d/14E4YLMRsadtgpSAMVNbgE-Xn_Zop9pxR";
-            document.getElementById("img2").src = "https://lh3.googleusercontent.com/d/143ae80isFLy_d5Dtd-ezjUWhPsJr-gK_";
-            document.getElementById("img3").src = "https://lh3.googleusercontent.com/d/13tnLEGMNqkCl0TFaARje4dN3PVIsIXch";
+            document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/buds-2-main2.jpg";
+            document.getElementById("img2").src = "https://vinxander44.github.io/g-sn-host/assets/buds-2-white-black.png";
+            document.getElementById("img3").src = "https://vinxander44.github.io/g-sn-host/assets/buds-2-white-transparent.png";
             break;
             
             //Verifying if the Pixel Buds 2nd Gen S/N entered is from a single bud R or L
             case "G":
             document.getElementById("myDevice").innerHTML = "Pixel Buds 2nd Generation";
             document.getElementById("result").innerHTML = "This is a single bud S/N, please enter the case S/N"
-            document.getElementById("img1").src = "https://lh3.googleusercontent.com/d/14E4YLMRsadtgpSAMVNbgE-Xn_Zop9pxR";
-            document.getElementById("img2").src = "https://lh3.googleusercontent.com/d/143ae80isFLy_d5Dtd-ezjUWhPsJr-gK_";
-            document.getElementById("img3").src = "https://lh3.googleusercontent.com/d/13tnLEGMNqkCl0TFaARje4dN3PVIsIXch";
+            document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/buds-2-main2.jpg";
+            document.getElementById("img2").src = "https://vinxander44.github.io/g-sn-host/assets/buds-2-white-black.png";
+            document.getElementById("img3").src = "https://vinxander44.github.io/g-sn-host/assets/buds-2-white-transparent.png";
 
             //Verifying if the Pixel Buds 2nd Gen S/N entered is already a bundle S/N
             case "W":
             document.getElementById("myDevice").innerHTML = "Pixel Buds 2nd Generation";
             document.getElementById("result").innerHTML = "The S/N entered is already a bundle S/N";
-            document.getElementById("img1").src = "https://lh3.googleusercontent.com/d/14E4YLMRsadtgpSAMVNbgE-Xn_Zop9pxR";
-            document.getElementById("img2").src = "https://lh3.googleusercontent.com/d/143ae80isFLy_d5Dtd-ezjUWhPsJr-gK_";
-            document.getElementById("img3").src = "https://lh3.googleusercontent.com/d/13tnLEGMNqkCl0TFaARje4dN3PVIsIXch";
+            document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/buds-2-main2.jpg";
+            document.getElementById("img2").src = "https://vinxander44.github.io/g-sn-host/assets/buds-2-white-black.png";
+            document.getElementById("img3").src = "https://vinxander44.github.io/g-sn-host/assets/buds-2-white-transparent.png";
             break;
 
             default:
@@ -121,9 +121,9 @@ function myFunction() {
                 case "D":
                 document.getElementById("myDevice").innerHTML = "Pixel Buds Pro";
                 document.getElementById("result").innerHTML = "The S/N entered is already a bundle S/N";
-                document.getElementById("img1").src = "https://lh3.googleusercontent.com/d/13FANbyZp2HMJxKRSmyyJGDAlPqYECxad";
-                document.getElementById("img2").src = "https://lh3.googleusercontent.com/d/13erKhQALjb-L8F0FUJe97J-nm_p4e028";
-                document.getElementById("img3").src = "https://lh3.googleusercontent.com/d/13CqCI_3RC--ckVW5-7saoT_sZ4QAgbYe";            
+                document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/buds-pro-image-1.webp";
+                document.getElementById("img2").src = "https://vinxander44.github.io/g-sn-host/assets/buds-pro-blue-pair.webp";
+                document.getElementById("img3").src = "https://vinxander44.github.io/g-sn-host/assets/buds-pro-lemon-transparent.png";            
                 break;
                 
                 case "G":
@@ -135,9 +135,9 @@ function myFunction() {
                 upperSN = upperSN.join("");
                 document.getElementById("result").innerHTML = "The bundle S/N is: ";
                 document.getElementById("bundle").innerHTML = upperSN;
-                document.getElementById("img1").src = "https://lh3.googleusercontent.com/d/13FANbyZp2HMJxKRSmyyJGDAlPqYECxad";
-                document.getElementById("img2").src = "https://lh3.googleusercontent.com/d/13erKhQALjb-L8F0FUJe97J-nm_p4e028";
-                document.getElementById("img3").src = "https://lh3.googleusercontent.com/d/13CqCI_3RC--ckVW5-7saoT_sZ4QAgbYe";
+                document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/buds-pro-image-1.webp";
+                document.getElementById("img2").src = "https://vinxander44.github.io/g-sn-host/assets/buds-pro-blue-pair.webp";
+                document.getElementById("img3").src = "https://vinxander44.github.io/g-sn-host/assets/buds-pro-lemon-transparent.png"; 
                 break;
 
             default:
@@ -150,9 +150,7 @@ function myFunction() {
     }
     }
   }
-
-  else{ 
-        
+  else{         
     if(cc == "HFD"){ //Verifying if device is Chromecast with Google TV 4K
       
         switch (upperSN.charAt(8)){
@@ -160,9 +158,9 @@ function myFunction() {
             case "E": //Verifying if the S/N entered is already a bundle S/N
             document.getElementById("myDevice").innerHTML = "Chromecast with Google TV 4K";
             document.getElementById("result").innerHTML = "The S/N entered is already a bundle S/N";
-            document.getElementById("img1").src = "https://lh3.googleusercontent.com/d/1330bw6hE4lxX9WO4QKkL7TymlE9Zaz8m";
-            document.getElementById("img2").src = "https://lh3.googleusercontent.com/d/14Z7M_hPldpJv2pdq_Y4zZiwb3URMCSC4";
-            document.getElementById("img3").src = "https://lh3.googleusercontent.com/d/14gUkNcOCRkeHhOGMoEDdEZm20WaJXX-A";
+            document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/cc4k-white.webp";
+            document.getElementById("img2").src = "https://vinxander44.github.io/g-sn-host/assets/cc-4k-image3.webp";
+            document.getElementById("img3").src = "https://vinxander44.github.io/g-sn-host/assets/cc-4k-coral-image2.jpg";
             break;
 
             case "D":
@@ -172,9 +170,9 @@ function myFunction() {
             upperSN = upperSN.join("");
             document.getElementById("result").innerHTML = "The bundle S/N is: ";
             document.getElementById("bundle").innerHTML = upperSN;
-            document.getElementById("img1").src = "https://lh3.googleusercontent.com/d/1330bw6hE4lxX9WO4QKkL7TymlE9Zaz8m";
-            document.getElementById("img2").src = "https://lh3.googleusercontent.com/d/14Z7M_hPldpJv2pdq_Y4zZiwb3URMCSC4";
-            document.getElementById("img3").src = "https://lh3.googleusercontent.com/d/14gUkNcOCRkeHhOGMoEDdEZm20WaJXX-A";
+            document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/cc4k-white.webp";
+            document.getElementById("img2").src = "https://vinxander44.github.io/g-sn-host/assets/cc-4k-image3.webp";
+            document.getElementById("img3").src = "https://vinxander44.github.io/g-sn-host/assets/cc-4k-coral-image2.jpg";
             break;
 
             default:
@@ -183,7 +181,6 @@ function myFunction() {
                 document.getElementById("bundle").innerHTML = "";
         }
     }
-
         else{
 
             switch (upperSN.charAt(8)){
@@ -191,9 +188,9 @@ function myFunction() {
                 case "H":
                 document.getElementById("myDevice").innerHTML = "Chromecast with Google TV HD";
                 document.getElementById("result").innerHTML = "The S/N entered is already a bundle S/N";
-                document.getElementById("img1").src = "https://lh3.googleusercontent.com/d/1330bw6hE4lxX9WO4QKkL7TymlE9Zaz8m";
-                document.getElementById("img2").src = "https://lh3.googleusercontent.com/d/14J1U1938rmdl7yI_J4VY0c_s55ZIAysa";
-                document.getElementById("img3").src = "https://lh3.googleusercontent.com/d/14FJXdhKYN9EhTosUoAFRoywlOKILREe_";
+                document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/cc4k-white.webp";
+                document.getElementById("img2").src = "https://vinxander44.github.io/g-sn-host/assets/cc-hd-white-photo.webp";
+                document.getElementById("img3").src = "https://vinxander44.github.io/g-sn-host/assets/cc-controller.webp";
                 break;
   
                 case "N":
@@ -204,9 +201,9 @@ function myFunction() {
                 upperSN = upperSN.join("");
                 document.getElementById("result").innerHTML = "The bundle S/N is: ";
                 document.getElementById("bundle").innerHTML = upperSN;
-                document.getElementById("img1").src = "https://lh3.googleusercontent.com/d/1330bw6hE4lxX9WO4QKkL7TymlE9Zaz8m";
-                document.getElementById("img2").src = "https://lh3.googleusercontent.com/d/14J1U1938rmdl7yI_J4VY0c_s55ZIAysa";
-                document.getElementById("img3").src = "https://lh3.googleusercontent.com/d/14FJXdhKYN9EhTosUoAFRoywlOKILREe_";
+                document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/cc4k-white.webp";
+                document.getElementById("img2").src = "https://vinxander44.github.io/g-sn-host/assets/cc-hd-white-photo.webp";
+                document.getElementById("img3").src = "https://vinxander44.github.io/g-sn-host/assets/cc-controller.webp";
                 break;
 
                 default:
