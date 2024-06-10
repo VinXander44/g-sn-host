@@ -183,7 +183,7 @@ function myFunction() {
     }
         else{
 
-            switch (upperSN.charAt(8)){
+            switch (upperSN.charAt(7)){
 
                 case "H":
                 document.getElementById("myDevice").innerHTML = "Chromecast with Google TV HD";
