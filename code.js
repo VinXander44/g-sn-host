@@ -196,8 +196,8 @@ function myFunction() {
                 case "N":
                 document.getElementById("myDevice").innerHTML = "Chromecast with Google TV HD";
                 upperSN = upperSN.split("");
-                upperSN[8] = "H";
-                upperSN[9] = "4";
+                upperSN[7] = "H";
+                upperSN[8] = "4";
                 upperSN = upperSN.join("");
                 document.getElementById("result").innerHTML = "The bundle S/N is: ";
                 document.getElementById("bundle").innerHTML = upperSN;
