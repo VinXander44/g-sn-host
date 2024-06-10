@@ -183,9 +183,9 @@ function myFunction() {
     }
         else{
 
-            switch (upperSN.charAt(7)){
+            switch (upperSN.charAt(8)){
 
-                case "H":
+                case "4":
                 document.getElementById("myDevice").innerHTML = "Chromecast with Google TV HD";
                 document.getElementById("result").innerHTML = "The S/N entered is already a bundle S/N";
                 document.getElementById("img1").src = "https://vinxander44.github.io/g-sn-host/assets/cc4k-white.webp";
